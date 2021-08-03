@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NurceAducationNew",
+    "slug": "NurceAducationNew",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NurceAducationNew"
+}
